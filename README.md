@@ -11,7 +11,7 @@ The MNIST dataset is automatically downloaded when running the script. It contai
    -10,000 test images
 
    -28x28 grayscale images of handwritten digits (0-9)
-
+    
 Model Architecture
 The neural network consists of the following layers:
 
