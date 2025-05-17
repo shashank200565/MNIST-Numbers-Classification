@@ -13,7 +13,7 @@ The MNIST dataset is automatically downloaded when running the script. It contai
    -28x28 grayscale images of handwritten digits (0-9)
     
 Model Architecture
-The neural network consists of the following layers:
+The neural network consists of the following layers:    
 
    -Input Layer: Flattens 28x28 images into 784-dimensional vectors
 
